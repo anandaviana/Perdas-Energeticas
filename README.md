@@ -1,2 +1,2 @@
 ﻿# Perdas-energeticas
-### Readme em contrução!
+### Readme em construção!
