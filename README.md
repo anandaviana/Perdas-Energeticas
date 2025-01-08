@@ -16,3 +16,8 @@ Após identificar os KPIs (indicadores de performance) presentes na estrutura do
 Na sequência, utilizei a biblioteca Pandas para criar DataFrames com os dados, transformando-os em tabelas que poderiam ser facilmente manipuladas e visualizadas no Power BI. Primeiramente, criei um DataFrame para cada arquivo .json existente e os salvei no formato .xlsx. Durante esse processo, precisei calcular a variável "Meta", conforme as instruções fornecidas pela contratante, e também realizar a transformação das datas, que estavam em formato de milissegundos, para o formato datetime. Essas operações se tornaram mais simples com o uso do Pandas, que facilita a sintaxe e otimiza o processamento do código.
 
 Após obter os arquivos .xlsx individuais por SPE, o próximo passo foi concatená-los em um único DataFrame, de forma a unificar as informações. Esse DataFrame final incluiria todos os dados dos arquivos .xlsx individuais, além de uma coluna adicional que indicaria o SPE correspondente a cada conjunto de dados. Com o arquivo final salvo, segui para o Power BI para construir as visualizações.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15"/> Python
+   &nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="15" height="15"/> Pandas
+   &nbsp;&nbsp;&nbsp;
