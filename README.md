@@ -13,7 +13,7 @@ Usina Solar. Créditos: Freepik.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="15" height="15" /> VS Code
     &nbsp;&nbsp;&nbsp;
 
-## Contexto
+## Contexto e Objetivo
 
 Recebi a tarefa de produzir relatórios dinâmicos para uma empresa de gerenciamento de ativos. O objetivo era apresentar, de forma clara e eficiente, os principais indicadores de desempenho de um conjunto de usinas fotovoltaicas monitoradas por eles. Atualmente, a empresa utiliza Python para criar dashboards e gera relatórios estáticos em PDF. Embora esse processo atenda às necessidades dos clientes, ele é demorado e limita a exploração e visualização dos dados.
 
