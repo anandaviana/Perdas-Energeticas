@@ -4,6 +4,17 @@
 ![photovoltaics-solar-power-station-energy-from-natural](https://github.com/user-attachments/assets/4e619ca7-5d2f-4e0b-9ee3-af5c8b2080cf)
 Usina Solar. Créditos: Freepik.
 
+
+## Tecnologias e ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15"/> Python
+   &nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="15" height="15"/> Pandas
+   &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="15" height="15" /> VS Code
+    &nbsp;&nbsp;&nbsp;
+
+## Contexto
+
 Recebi a tarefa de produzir relatórios dinâmicos para uma empresa de gerenciamento de ativos. O objetivo era apresentar, de forma clara e eficiente, os principais indicadores de desempenho de um conjunto de usinas fotovoltaicas monitoradas por eles. Atualmente, a empresa utiliza Python para criar dashboards e gera relatórios estáticos em PDF. Embora esse processo atenda às necessidades dos clientes, ele é demorado e limita a exploração e visualização dos dados.
 
 Minha proposta foi desenvolver uma solução que combinasse Python com uma ferramenta de visualização de dados, criando dashboards interativos e dinâmicos. Essa abordagem buscou demonstrar a viabilidade de otimizar a produção de relatórios e proporcionar uma experiência mais ágil e rica na análise dos indicadores.
@@ -17,10 +28,3 @@ Na sequência, utilizei a biblioteca Pandas para criar DataFrames com os dados, 
 
 Após obter os arquivos .xlsx individuais por SPE, o próximo passo foi concatená-los em um único DataFrame, de forma a unificar as informações. Esse DataFrame final incluiria todos os dados dos arquivos .xlsx individuais, além de uma coluna adicional que indicaria o SPE correspondente a cada conjunto de dados. Com o arquivo final salvo, segui para o Power BI para construir as visualizações.
 
-### Tecnologias e ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15"/> Python
-   &nbsp;&nbsp;&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="15" height="15"/> Pandas
-   &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="15" height="15" /> VS Code
-    &nbsp;&nbsp;&nbsp;
