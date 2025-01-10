@@ -28,3 +28,6 @@ Na sequência, utilizei a biblioteca Pandas para criar DataFrames com os dados, 
 
 Após obter os arquivos .xlsx individuais por SPE, o próximo passo foi concatená-los em um único DataFrame, de forma a unificar as informações. Esse DataFrame final incluiria todos os dados dos arquivos .xlsx individuais, além de uma coluna adicional que indicaria o SPE correspondente a cada conjunto de dados. Com o arquivo final salvo, segui para o Power BI para construir as visualizações.
 
+Veja o relatório gerado no Power BI [aqui](https://app.powerbi.com/view?r=eyJrIjoiN2Y4OTE4OGQtZTRmMy00OWYyLTg1MjgtZWRiMTU3NjZiM2QyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9).
+
+
